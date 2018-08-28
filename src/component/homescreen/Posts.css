@@ -1,0 +1,4 @@
+.posts-container {
+    /*background: blue;*/
+    grid-area: body;
+}
